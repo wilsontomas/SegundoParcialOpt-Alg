@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\bin\Debug\net6.0\SegundoPOA.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\bin\Debug\net6.0\SegundoPOA.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\bin\Debug\net6.0\SegundoPOA.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\bin\Debug\net6.0\SegundoPOA.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\bin\Debug\net6.0\SegundoPOA.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\refint\SegundoPOA.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\SegundoPOA.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\segundo parcial\SegundoPOA\SegundoPOA\obj\Debug\net6.0\ref\SegundoPOA.dll
